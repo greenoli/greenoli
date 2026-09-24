@@ -8,7 +8,7 @@
 ## ⚠️ IMPORTANT — LICENSING INFORMATION ⚠️
 All of my works, unless otherwise stated, are protected, licensed and distributed under the Source No-AI-Training License.
 
-The copy of the Source No-AI-Training License I'm currently using should be available at my [source](https://github.com/greenoli/source/LICENSE) repo.
+The copy of the Source No-AI-Training License I'm currently using should be available at my [source](https://github.com/greenoli/source/blob/main/LICENSE) repo.
 
 This is to be referred to in case no license or licensing information is provided with any of my projects or works.
 
