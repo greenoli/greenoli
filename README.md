@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi! I'm Oli :)
+- Computer science student
+- Learning C# at uni
+- Most experienced in Python
+- Dabbled in Svelte / HTML / CSS / JS
+- Linux is goated
 
-<!--
-**greenoli/greenoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ⚠️ IMPORTANT — LICENSING INFORMATION ⚠️
+All of my works, unless otherwise stated, are protected, licensed and distributed under the Source No-AI-Training License.
 
-Here are some ideas to get you started:
+The copy of the Source No-AI-Training License I'm currently using should be available at my [source](https://github.com/greenoli/source) repo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This is to be referred to in case no license or licensing information is provided with any of my projects or works.
+
+If a version conflict exists, you may choose to receive my software with whichever has the later version number, or later publication date.
